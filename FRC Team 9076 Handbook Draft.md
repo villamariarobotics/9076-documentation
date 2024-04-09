@@ -23,7 +23,7 @@ Villaciraptors 9076, a First Robotics team based in Montreal, QC, embarked on it
 
 We're dedicated to making robotics accessible to all, regardless of engineering skills. Our inclusive, safe and supportive environment encourages teamwork, respect, and lifelong skills. These values extend beyond robotics, shaping culture where every member feels valued and heard. As a new club, we welcome members with any level of experience, ensuring everyone contributes to our robot's creative process.
 
-### Core Values:
+### Core Values
 
 - **Innovation:** We foster creativity and innovation by encouraging team members to explore new ideas and approaches to solving problems.
 - **Collaboration:** We value teamwork and collaboration, recognizing that diverse perspectives and skills are essential for success.
@@ -34,7 +34,7 @@ We're dedicated to making robotics accessible to all, regardless of engineering 
 
 FRC Team 9076 operates under the leadership of experienced students and coaches, who provide guidance, support, and mentorship to team members. The team is organized into several subteams, each responsible for specific aspects of robot design, construction, programming, and outreach.
 
-### Subteams:
+### Subteams
 
 1. **Mechanical Team:** Responsible for building the physical components of the robot, including chassis, manipulators, and mechanisms.
 2. **CAD Team:** The cad team is a mechanical subteam Specializes in designing the core aspects of the robot.
@@ -42,7 +42,7 @@ FRC Team 9076 operates under the leadership of experienced students and coaches,
 4. **Programming Team:** Develops software for controlling the robot, including autonomous routines, teleoperated controls, and sensor integration.
 5. **communications team:** Promotes the team in the community, organizes outreach events, manage and get sponsorships and manages team communications and media relations.
 
-### Leadership:
+### Leadership
 
 Each respective subteam has its respective subteam lead(s) who is generally in charge of their subteam and assign roles and responsibilities to team members based on their skills, interests, and availability. subteam vice leader(s) take charge of their subteam when the subteam leader is absent or busy with other tasks. This structure includes subteams such as, the cad subteam who themselves have their own leader(s) and vice leader(s)
 
@@ -50,7 +50,7 @@ Each respective subteam has its respective subteam lead(s) who is generally in c
 
 FRC Team 9076 welcomes students from diverse backgrounds and skill levels who are passionate about robotics and STEM education. Membership is open to students enrolled in high school, with opportunities for involvement in various aspects of team activities, including robot design, programming, outreach, and leadership roles.
 
-### Expectations for Members:
+### Expectations for Members
 
 - Attend team meetings, workshops, and events regularly.
 - Actively participate in team activities and contribute to team projects.
@@ -59,7 +59,7 @@ FRC Team 9076 welcomes students from diverse backgrounds and skill levels who ar
 
 ## Team Operations
 
-### Meetings and Workshop:
+### Meetings and Workshop
 
 - Team meeting currently usually occur on wednesdays from 4:15 to 7:15 and on saturdays starting at 10:00 am (keep in mind this schedule may change at any time).
 - Planning meetings are (Non mandatory) meetings during lunch periods dedicated to team and task planning currently usually occur at lunch on day 2 and day 6 in D261
@@ -70,7 +70,7 @@ FRC Team 9076 welcomes students from diverse backgrounds and skill levels who ar
 - Use project management tools and methodologies (e.g., Scrum, Kanban) to plan, track, and manage team projects and tasks effectively.
 - Assign roles and responsibilities to team members based on their skills, interests, and availability. -->
 
-### Communication:
+### Communication
 
 - Maintain clear and open communication channels within the team, utilizing platforms such as email, slack, and project management software.
 - Establish regular communication with mentors, sponsors, and other stakeholders to keep them informed of team activities and achievements.
@@ -91,6 +91,7 @@ FRC Team 9076 welcomes students from diverse backgrounds and skill levels who ar
 
 - Integrate mechanical, electrical, and software components to create a fully functional robot system.
 - Conduct comprehensive testing and debugging to ensure that the robot operates reliably and meets competition requirements.
+- **GIVE PROGRAMING TIME WITH THE ROBOT!**
 
 ## Competition Preparation
 
@@ -105,12 +106,12 @@ Our team usually takes part in 2 competitions per season, where safety is our to
 
 the season is divided into multiple distinct segments which include:
 
-1. **recruitment:** This segment is during the first few weeks of the school year and are dedicated to meeting up with returning members and recruiting new members, this portion of the year usually also includes some ice breaker and team building workshops.
+1. **Recruitment/Preseason:** This segment is during the first few weeks of the school year and are dedicated to meeting up with returning members and recruiting new members, this portion of the year usually also includes some ice breaker and team building workshops.
 2. **BetaBots:** This segment of the year is dedicated to the designing and building of a robot for the BetaBots competition and using that robot in the small competition.
-3. **Kickoff:** Kickoff is an event usually on a weekend at the beginning of january used to announce the first game simultaneously to all teams participating in that years game. we usually go through the game manual and rules during this weekend and early ideas and strategies are thrown out.
+3. **Kickoff:** Kickoff is an event usually on a weekend at the beginning of january used to announce the first game simultaneously to all teams participating in that years game. we usually go through the game manual and rules during this weekend and early design ideas and strategies are thrown out.
 4. **Build Season:** Build season is a rigorous 6 week segment where the First robot is designed, built wired, programed and tested.
-5. **Competition Season:** Competition season is another 6 week segment of the First season dedicated to competing with the First robot. Our team usually participates in 2 events per competition season. If we do very well in these competitions we also have a chance of going to the "First World Championship" which is an annual event hosted in Huston, Texas and is where the top teams battle it out to see who is that years "World Champion"
-6. **Post/post  Season:** this segment of the year is after the competition season ends where the team takes things easy and reflect on how de did that year what we did good and what we could have improved
+5. **Competition Season:** Competition season is another 6 week segment of the First season dedicated to competing with the First robot. Our team usually participates in 2 events per competition season. If we do very well in these competitions we also have a chance of going to the "First World Championship" which is an annual event hosted in Huston, Texas and is where the top teams battle it out to see who is that years "World Champion".
+6. **Post/Off Season:** this segment of the year is after the competition season ends where the team takes things easy and reflect on how de did that year what we did good and what we could have improved and do some learning of new skills and do some offsesaon projects.
 
 ### Competition Structure:
 
@@ -139,7 +140,7 @@ the season is divided into multiple distinct segments which include:
 
 ### Sponsorship and Fundraising:
 
-- Identify and cultivate relationships with potential sponsors and donors to secure financial support and resources for team activities and projects.
+- Identify and cultivate relationships with potential sponsors and donors to secure financial support and resources for team activities and projects and maintain positive relationships with exesisting sponsors to hopfully keep them coming back in future seasons.
 - Organize fundraising events and initiatives to raise funds for team expenses, competition fees, and travel costs.
 
 ## Safety Guidelines
@@ -154,15 +155,15 @@ the season is divided into multiple distinct segments which include:
 
 ### Workshop Safety:
 
-1. **Safety Glasses:** Always wear safety glasses when working in the workshop, especially when operating machinery or tools.
+1. **Safety Glasses:** Always wear safety glasses when working in the workshop/lab, especially when operating machinery or tools.
 2. **Closed-Toe Shoes:** Wear closed-toe shoes at all times to protect your feet from potential hazards.
-3. **Hair and Clothing:** Tie back long hair and avoid wearing loose clothing or jewelry that could get caught in machinery.
+3. **Hair and Clothing:** Tie back long hair and avoid wearing loose clothing or jewelry that could get caught in machinery/the robot.
 4. **Tool Use:** Use tools and equipment only for their intended purposes and operate them according to safety guidelines (Some exceptions may apply).
 5. **Cleanliness:** Keep the workshop clean and organized to prevent tripping hazards and facilitate safe movement.
 6. **First Aid Kit:** Know where a fully stocked first aid kit is available in the workshop.
 7. **Fire Extinguishers:** Know and familiarize yourself with the locations of fire extinguishers in the workshop.
 8. **Lighting:** Ensure to have proper lighting in the workshop especially when working with machinery or tools.
-9. **Metal Shaving Disposal:** Small metal shavings/filings should be safly disposed in a garbage can and NOT under any circumstance be handed to Noah.
+9. **Metal Shaving Disposal:** Small metal shavings/filings should be safly disposed in a garbage can and NOT under any circumstance be handed to Noah :(.
 
 ### Robot Operating and Testing Rules:
 
@@ -170,7 +171,7 @@ When operating and testing the robot, safety and efficiency are paramount. Pleas
 
 1. **Safety Glasses:** Wear safety glasses at all times when operating or testing the robot, especially during active testing sessions.
 2. **Clear Workspace:** Keep the workspace clear of unnecessary clutter to prevent tripping hazards and facilitate smooth operation.
-3. **Emergency Stop:** Familiarize yourself with the location and operation of the emergency stop button on the robot and use it if necessary.
+3. **Emergency Stop:** Familiarize yourself with the location and operation of the emergency stop button and driver station on the robot and use it if necessary.
 4. **Team Communication:** Maintain clear communication with other team members during testing to ensure everyone is aware of the robot's actions.
 5. **Supervised Testing:** Ensure that robot testing is supervised by a mentor or experienced team member, especially when working with potentially hazardous components or maneuvers.
 6. **Bumper Usage:** Always use bumpers when testing the robot to provide an additional layer of protection and comply with competition regulations regarding bumper usage.
