@@ -1,8 +1,3 @@
-﻿<a name="br1"></a> 
-
-FRC Team 9076 Pit Checklist.md
-
-2024-02-03
 
 FRC Team 9076 Pit Checklist
 
@@ -58,7 +53,7 @@ scouting opposing teams and gathering match data.
 
 Communication and Outreach
 
-**Team Attire:** Ensure that team members wear team shirts or uniforms and maintain a professional
+**Team Attire:** Ensure that team members wear team shirts or hoodies and maintain a professional
 
 appearance while in the pit area.
 
@@ -76,15 +71,10 @@ Safety and First Aid
 
 extinguisher locations, and evacuation routes.
 
-1 / 2
 
 
 
-<a name="br2"></a> 
 
-FRC Team 9076 Pit Checklist.md
-
-2024-02-03
 
 **First Aid Kit:** Bring a fully stocked first aid kit with supplies for treating minor injuries and
 
@@ -94,11 +84,10 @@ addressing medical emergencies.
 
 any potential hazards or safety violations.
 
-By completing this pit checklist, we can ensure that our pit is well-prepared and organized for competition,
+By completing this pit checklist, we can ensure that our pit is well-prepared and organized and safe for competition,
 
 allowing us to focus on performing at our best on the field. Let's work together to make FRC Team 9076
 
-proud!
+better!
 
-2 / 2
 
