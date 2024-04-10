@@ -77,17 +77,17 @@ FRC Team 9076 welcomes students from diverse backgrounds and skill levels who ar
 
 ## Robot Design and Build Process
 
-### Design Phase:
+### Design Phase
 
 - Analyze game rules and objectives to define the robot's design requirements and constraints.
 - Generate and evaluate design concepts, considering factors such as functionality, reliability, and manufacturability.
 
-### Build Phase:
+### Build Phase
 
 - Collaborate with mechanical, electrical, and programming teams to construct the robot according to the approved design.
 - Conduct iterative testing and prototyping to validate design choices and identify areas for improvement.
 
-### Integration Phase:
+### Integration Phase
 
 - Integrate mechanical, electrical, and software components to create a fully functional robot system.
 - Conduct comprehensive testing and debugging to ensure that the robot operates reliably and meets competition requirements.
@@ -95,14 +95,14 @@ FRC Team 9076 welcomes students from diverse backgrounds and skill levels who ar
 
 ## Competition Preparation
 
-### Competitions:
+### Competitions
 
 Our team usually takes part in 2 competitions per season, where safety is our top priority to ensure a successful and enjoyable experience for all team members.
 
 1. **BetaBots:** Betabots is a smaller unique offseason game offered exclusively by First Quebec. we participate in this competition as a smaller game before the official first season to get back into the groove of making and designing robots and is great to train new members.
 2. **First:** First is the main competition that we participate in, serving as the culmination of our season's efforts and the platform where we showcase our robot's capabilities. It offers an exciting opportunity for our team to compete against other skilled teams and demonstrate our dedication, innovation, and teamwork.
 
-### season schedule:
+### season schedule
 
 the season is divided into multiple distinct segments which include:
 
@@ -113,32 +113,32 @@ the season is divided into multiple distinct segments which include:
 5. **Competition Season:** Competition season is another 6 week segment of the First season dedicated to competing with the First robot. Our team usually participates in 2 events per competition season. If we do very well in these competitions we also have a chance of going to the "First World Championship" which is an annual event hosted in Huston, Texas and is where the top teams battle it out to see who is that years "World Champion".
 6. **Post/Off Season:** this segment of the year is after the competition season ends where the team takes things easy and reflect on how de did that year what we did good and what we could have improved and do some learning of new skills and do some offsesaon projects.
 
-### Competition Structure:
+### Competition Structure
 
-### Strategy Development:
+### Strategy Development
 
 - Analyze game strategies and develop match strategies tailored to the team's strengths and objectives.
 - Practice and refine match strategies through simulations, scrimmages, and practice matches.
 
-### Logistics and Planning:
+### Logistics and Planning
 
 - Coordinate travel arrangements, accommodation, and logistics for competition events, ensuring that team members are well-prepared and organized.
 - Prepare necessary equipment, tools, spare parts, and supplies for competition, and pack them securely for transport.
 - When arriving to competition and setting up the dedicated pits area be sure to refer to and follow the "pits checklist"
 
-### Competition Etiquette:
+### Competition Etiquette
 
 - Demonstrate good sportsmanship and gracious professionalism towards other teams, referees, and event staff at competitions.
 - Follow competition rules and regulations, and respect the decisions of referees and event officials.
 
 ## Outreach and Community Engagement
 
-### Mentorship and Collaboration:
+### Mentorship and Collaboration
 
 - Collaborate with local schools, organizations, and businesses to provide mentorship, support, and resources for robotics and STEM programs.
 - Share knowledge and expertise with other teams and students to foster a culture of learning and collaboration within the community.
 
-### Sponsorship and Fundraising:
+### Sponsorship and Fundraising
 
 - Identify and cultivate relationships with potential sponsors and donors to secure financial support and resources for team activities and projects and maintain positive relationships with exesisting sponsors to hopfully keep them coming back in future seasons.
 - Organize fundraising events and initiatives to raise funds for team expenses, competition fees, and travel costs.
@@ -153,7 +153,7 @@ the season is divided into multiple distinct segments which include:
 - **Loose Clothing:** Avoid wearing loose clothing or jewelry that could get caught in tools or machinery.
 - **Safety Protocols:** Follow established safety protocols and guidelines when using tools and equipment.
 
-### Workshop Safety:
+### Workshop Safety
 
 1. **Safety Glasses:** Always wear safety glasses when working in the workshop/lab, especially when operating machinery or tools.
 2. **Closed-Toe Shoes:** Wear closed-toe shoes at all times to protect your feet from potential hazards.
@@ -165,7 +165,7 @@ the season is divided into multiple distinct segments which include:
 8. **Lighting:** Ensure to have proper lighting in the workshop especially when working with machinery or tools.
 9. **Metal Shaving Disposal:** Small metal shavings/filings should be safly disposed in a garbage can and NOT under any circumstance be handed to Noah :(.
 
-### Robot Operating and Testing Rules:
+### Robot Operating and Testing Rules
 
 When operating and testing the robot, safety and efficiency are paramount. Please adhere to the following rules to ensure the safety of team members and the successful testing of our robot:
 
@@ -177,7 +177,7 @@ When operating and testing the robot, safety and efficiency are paramount. Pleas
 6. **Bumper Usage:** Always use bumpers when testing the robot to provide an additional layer of protection and comply with competition regulations regarding bumper usage.
 7. **Electrical Check:** Before powering on the robot be sure to have an electrical subteam member do a quick check unless changes were made to the robot in which case a full electical check following the "Electrical Saftey checklist".
 
-### Personal Safety:
+### Personal Safety
 
 - **Hydration:** Stay hydrated by drinking water regularly, especially during strenuous activities or hot weather.
 - **Rest Breaks:** Take regular breaks to rest and prevent fatigue during long work or competition days.

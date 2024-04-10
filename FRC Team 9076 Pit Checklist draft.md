@@ -56,5 +56,3 @@ any potential hazards or safety violations.
 By completing this pit checklist, we can ensure that our pit is well-prepared and organized and safe for competition,
 
 allowing us to focus on performing at our best on the field. Let's work together to make FRC Team 9076 better!
-
-
